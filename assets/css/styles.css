@@ -71,3 +71,17 @@
   background-color: #175cff;
   color: #fff;
 }
+
+@media (max-width: 700px) {
+  .container h1 {
+    font-size: 24px;
+  }
+
+  .time {
+    transform: scale(0.7);
+  }
+
+  .separator {
+    font-size: 55px;
+  }
+}
