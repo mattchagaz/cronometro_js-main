@@ -71,3 +71,5 @@ function formatTime(time) {
 function formatMilliseconds(time) {
   return time < 100 ? `0${time}`.padStart(3, '0') : time
 }
+
+console.log('made by matt s2')
