@@ -75,6 +75,10 @@
   color: #fff;
 }
 
+#startBtn:hover {
+  color: #87ddff
+}
+
 @keyframes toLeft {
   from {
     opacity: 0;
